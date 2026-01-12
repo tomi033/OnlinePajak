@@ -1,10 +1,10 @@
          {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Wait For Some Time ⏰",
-    "libs":"https://github.com/tomi033/OnlinePajak/raw/refs/heads/main/libEnc.zip",
+    "libs":"https://github.com/tomi033/OnlinePajak/raw/refs/heads/main/libTest.zip",
     "notice_title":"Access Internet ",
     "notice_body":"Ok"
 }
