@@ -1,0 +1,11 @@
+{
+   "aline": [
+       {
+           "loader_url": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/aline.apk",
+           "loader_size": 12769,
+           "loader_sha1": "64e0ab9335c823e5794fc70db23b86bd3ee7fb0c",
+           "loader_class": "com.goxome.aline.loader",
+           "loader_method": "run"
+       }
+   ]
+}
